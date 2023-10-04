@@ -1,0 +1,19 @@
+/* PastLoansList.css */
+.past-loans {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .past-loans li {
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .past-loans li:last-child {
+    margin-bottom: 0;
+  }
+  

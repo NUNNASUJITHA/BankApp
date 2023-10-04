@@ -1,0 +1,38 @@
+/* LoanRequestForm.css */
+.loan-request-form {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .loan-request-form label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .loan-request-form input[type="number"],
+  .loan-request-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .loan-request-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .loan-request-form button:hover {
+    background-color: #0056b3;
+  }
+  
